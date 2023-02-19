@@ -1,1 +1,61 @@
-# Learn-How-To-Learn
+# Learning How To Learn: Powerful mental tools to help you master tough subjects
+
+## Week 1: what is learning ? 
+- Introduction to focus and diffuse mode 
+- Terrence Sejnowski and Barbara Oakley - Introduction to course structure
+- using focus and diffuse modes or a little dali will you do 
+- What is learning ? 
+- Procrastination preview 
+- Practice makes permenant 
+- Introduction to memory 
+- The importance of sleep in learning 
+- Interview with Dr. Terrence Sejnowiski 
+- Summary video for module 1 
+- Excitement About Whats Next! MaryAnne Nestor Gives Special Hints
+- Optional Interview with "Benny the Irish Polyglot" about Learning Languages
+- Optional Interview with Dr. Robert Bilder on Creativity and Problem Solving
+- Optional Interview with Writing Coach Daphne Gray-Grant
+## Week 2: Chunking 
+- Introduction to chunking
+- What is a chunk ? 
+- How to form a chunk - part 1
+- How to form a chunk - part 2 
+- Illusions of competence 
+- Optional Video: How to Integrate a Flashcard Retrieval Practice System into This Course
+- What Motivates You?
+- The Value of a Library of Chunks
+- Overlearning, Choking, Einstellung, Chunking, and Interleaving
+- Summary for Module 2
+- Optional Interview with Dr. Norman Fortenberry - Learning at MIT
+- Optional Interview with Scott Young, a "Marco Polo" of Learning
+## Week 3: Procrastination and Memory 
+- Introduction to Procrastination and Memory
+- Tackling Procrastination - It is Easier, and More Valuable, Than You Think
+- Zombies Everywhere
+- Surf is Up: Process Versus Product
+- Harnessing Your Zombies to Help You
+- Juggling Life and Learning
+- Summing Up Procrastination
+- Diving Deeper into Memory
+- What is Long Term Memory?
+- Creating Meaningful Groups and the Memory Palace Technique
+- Summing Up Memory
+- Optional Interview with 4 Time US Memory Champion Nelson Dellis
+- Optional Interview with Dr. Robert Gamache, an Award-winning Bilingual Scientist
+- Optional Interview with Keith Devlin from Stanford, the NPR "Math Guy"
+## Week 4: Renaissance Learning and unlocking your potential
+- How to Become a Better Learner
+- Introduction to Renaissance Learning and Unlocking Your Potential
+- Create a Lively Visual Metaphor or Analogy
+- No Need for Genius Envy
+- Change Your Thoughts, Change Your Life
+- The Value of Teamwork
+- The Value of Teamwork
+- Hard Start - Jump to Easy
+- Final Helpful Hints for Tests
+- Summary for Module 4
+- Wrapup to the Course by Terrence Sejnowski and Barbara Oakley
+- Optional: Part 1: How NOT to Take a Test, Interview with Dr. Richard Felder and Dr. Rebecca Brent
+- Optional: Part 2: Learning Something New, Interview with Dr. Richard Felder and Dr. Rebecca Brent
+- Optional: Part 3: The Imposter Syndrome and Dealing with Procrastination, Interview with Dr. Richard Felder and Dr. Rebecca Brent
+- Optional Interview with William Craig Rice on learning in the humanities
